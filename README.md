@@ -3,7 +3,7 @@
 
 ---
 
-###About Me
+### About Me
 - I enjoy building clean, modern UI/UX using **vanilla JavaScript**, **Web Components**, and modular architectures  
 - I'm an contributer of **Whondo**, a rising renting platform built with custom elements  
 - Love turning ideas into smooth animations, responsive layouts, and reusable components  
@@ -11,7 +11,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 **Languages:**  
 `JavaScript` `HTML` `CSS` `php` `SQL` `java`
 
@@ -24,12 +24,12 @@
 
 ### Featured Projects
 - <a href="https://github.com/Taghunter98/Whondo">Whondo</a> — Contributed to the front-end UI and reusable component system  
-- More projects coming soon… 🚧  
+- More projects coming soon…  
 
 ---
 
 
-### 📫 Contact Me
+### Contact Me
 - 📧 Email: *saritsamkumpim@gmail.com*  
 - 🔗 LinkedIn: *Sarit Samkumpim*  
 
