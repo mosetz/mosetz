@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sarit Samkumpim </h1>
-<h3 align="center">Front-End Developer | Web Components Enthusiast | Whondo Contributor</h3>
+<h3 align="center">Front-End Developer | Web Components Enthusiast | Software engineer</h3>
 
 ---
 
@@ -28,13 +28,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mosetz&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosetz&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ### 📫 Contact Me
 - 📧 Email: *saritsamkumpim@gmail.com*  
