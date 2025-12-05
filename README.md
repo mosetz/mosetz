@@ -31,7 +31,7 @@
 
 ### Contact Me
 - 📧 Email: *saritsamkumpim@gmail.com*  
-- 🔗 LinkedIn: *Sarit Samkumpim*  
+- 🔗 LinkedIn: *www.linkedin.com/in/sarit-samkumpim-476449332*  
 
 ---
 
