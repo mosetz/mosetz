@@ -16,7 +16,7 @@
 `JavaScript` `HTML` `CSS` `php` `SQL` `java`
 
 **Front-End & Tools:**  
-`Web Components` `Shadow DOM` `Custom Elements`  
+`Web Components` `Shadow DOM` `Custom Elements` `TailwindCSS` 
 `Figma` `UI/UX Design`  
 `Git` `GitHub`  
 
