@@ -23,7 +23,8 @@
 ---
 
 ### Featured Projects
-- <a href="https://github.com/Taghunter98/Whondo">Whondo</a> — Contributed to the front-end UI and reusable component system  
+- <a href="https://github.com/Taghunter98/Whondo">Whondo</a> — Contributed to the front-end UI and reusable component system
+- <a href="https://github.com/mosetz/Health-Care">Health-care</a> — A small PHP-based web application created as an assignment for the Web-Based Information Systems Development (Com-Sci) class.
 - More projects coming soon…  
 
 ---
