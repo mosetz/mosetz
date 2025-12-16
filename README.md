@@ -25,6 +25,7 @@
 ### Featured Projects
 - <a href="https://github.com/Taghunter98/Whondo">Whondo</a> — Contributed to the front-end UI and reusable component system
 - <a href="https://github.com/mosetz/Health-Care">Health-care</a> — A small PHP-based web application created as an assignment for the Web-Based Information Systems Development (Com-Sci) class.
+- <a href="https://mosetz.github.io/my-portfolio/">My-portfolio</a> — My single page portfolio website which on show my tech skills and way to reach out to me!
 - More projects coming soon…  
 
 ---
